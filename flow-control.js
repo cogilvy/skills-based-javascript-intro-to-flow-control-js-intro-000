@@ -50,7 +50,7 @@ function switchAge(age) {
       value = "You are a teenager"
       break;
     default :
-      value = "You have an age"
+      value = "You are a teenager"
   }
   return value ;
 }
