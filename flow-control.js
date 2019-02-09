@@ -34,4 +34,4 @@ function switchAge(age) {
     default :
       value = "You have an age"
   }
-  return 
+  return value ;
